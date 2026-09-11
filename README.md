@@ -1,4 +1,3 @@
-![Banner](https://github.com/kovidjuneja/assets/blob/main/Thebanner.jpg)
 
 # Astro_GM_Waves 
 [(Back to top)](#table-of-contents)
@@ -38,7 +37,7 @@ Open Git Bash and change the directory to the location where the repository is t
   git init
 ```
 ```shell
-  git clone https://github.com/kovidjuneja/Astro_GM_Waves
+  git clone url
 ```
 Now, install the requirements using the following command.
 
@@ -52,12 +51,8 @@ To access the code open the specific notebook using
 ```
 
 
-    
-##  Theoretical Results
-[(Back to top)](#table-of-contents)
 
-For viewing the results and evaluation, please visit:
- https://github.com/kovidjuneja/Astro_GM_Waves/blob/main/Barak_GW_Theoretical_part.pdf
+
 ## Mathematical Results
 [(Back to top)](#table-of-contents)
 
@@ -78,9 +73,7 @@ For viewing the results and evaluation, please visit:
 #### Distance of the body from Earth:- 1.6360643629886842 billion light years
 
 
-
-     For viewing the expected data of strain vs time for different sets of masses, visit:
-https://github.com/kovidjuneja/Astro_GM_Waves/blob/main/Part_2_Drawing_Waveform.ipynb
+Rest of the results files have been attached above.
 
 
 ## Conclusion
