@@ -73,10 +73,11 @@ To access the code open the specific notebook using
 #### Distance of the body from Earth:- 1.6360643629886842 billion light years
 
 
-Rest of the results files have been attached above.
+
 
 
 ## Conclusion
 [(Back to top)](#table-of-contents)
 
 ### Given that the compactness ratio is less than 2, the objects in question are likely black holes. 
+### Rest of the result files have been attached above.
